@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">iTunesSearch-Dramalho</string>
+
+    <string name="json_error">Error Loading Songs</string>
+
+    <string name="Type">text/plain</string>
+
+    <string name="subject">Great Track!</string>
+
+    <string name="share_message">Share Using</string>
+
+    <string name="dialog_title">Search</string>
+
+    <string name="pos_butt_text">Ok!</string>
+
+    <string name="neg_butt_text">Cancel</string>
+
+    <string name="results_message"></string>
+
+</resources>
